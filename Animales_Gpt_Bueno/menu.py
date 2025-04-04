@@ -7,6 +7,7 @@ class Menu:
     def __init__(self):
         self.lista_animales = ListaAnimales()
 
+
     def mostrar_menu(self):
         while True:
             print("\n---- Menú ----")
